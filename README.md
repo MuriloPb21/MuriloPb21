@@ -1,13 +1,7 @@
 <div align="center">
 
   <img src="./assets/banner.svg" width="100%" alt="Banner de Murilo Prado" />
-
-  <br/>
-
-  <img src="https://komarev.com/ghpvc/?username=MuriloPb21&style=for-the-badge&color=c8a27a" alt="Visualizações do perfil" />
-  <img src="https://img.shields.io/github/followers/MuriloPb21?style=for-the-badge&color=c8a27a&label=Seguidores" alt="Seguidores no GitHub" />
-  <img src="https://img.shields.io/github/stars/MuriloPb21?style=for-the-badge&color=c8a27a&label=Stars" alt="Stars no GitHub" />
-
+ 
 </div>
 
 ---
