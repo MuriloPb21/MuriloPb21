@@ -29,6 +29,14 @@ Tenho estudado principalmente:
 
 Também tenho interesse em áreas como Inteligência Artificial, Cibersegurança, Dados e Cloud Computing.
 
+## 🛠️ Tecnologias e ferramentas
+
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=python,fastapi,js,react,html,css,postgres,git,github,vscode,aws&theme=dark" alt="Tecnologias e ferramentas" />
+
+</div>
+
 ## 🗂️ Meu perfil
 
 <div align="center">
@@ -54,14 +62,6 @@ Meu espaço pessoal para apresentar projetos, compartilhar conhecimentos e acomp
 - Banco de dados e SQL.
 - Estruturas de dados e lógica de programação.
 - Fundamentos de computação e algoritmos.
-
-## 🛠️ Tecnologias e ferramentas
-
-<div align="center">
-
-  <img src="https://skillicons.dev/icons?i=python,fastapi,js,react,html,css,postgres,git,github,vscode,aws&theme=dark" alt="Tecnologias e ferramentas" />
-
-</div>
 
 ## 🐍 Minhas contribuições
 
