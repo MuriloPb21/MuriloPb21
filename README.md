@@ -63,16 +63,6 @@ Meu espaço pessoal para apresentar projetos, compartilhar conhecimentos e acomp
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuriloPb21&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c8a27a&icon_color=c8a27a&text_color=c9d1d9&rank_icon=github" alt="Estatísticas do GitHub" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloPb21&layout=compact&hide_border=true&bg_color=0d1117&title_color=c8a27a&text_color=c9d1d9" alt="Linguagens mais utilizadas" />
-
-</div>
-
 ## 🐍 Minhas contribuições
 
 <div align="center">
@@ -93,32 +83,8 @@ Meu espaço pessoal para apresentar projetos, compartilhar conhecimentos e acomp
     <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=c8a27a" alt="Email" />
   </a>
 
-  <a href="https://github.com/MuriloPb21">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=c8a27a" alt="GitHub" />
+  <a href="https://muriloprado.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=c8a27a" alt="Portfólio" />
   </a>
 
 </div>
-
----
-
-<div align="center">
-
-  *"while (learning) { keepBuilding(); }*
-
-  **Sempre aprendendo. Sempre construindo.**
-
-</div>
-=======
-## Murilo Prado
-
-Hello, I'm Murilo Prado A student from Brazil learning how to code step by step. Focused on building projects, practicing, and growing in tech.
-
-
-#### 🛠️Technologies and tools
-
-[![PYTHON](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)]()
-[![FASTAPI](https://img.shields.io/badge/fastapi-000000?style=for-the-badge&logo=fastapi&logoColor=white)]()
-[![POSTGRESQL](https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=white)]()
-[![HTML](https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=white)]()
-[![CSS](https://img.shields.io/badge/css-000000?style=for-the-badge&logo=css&logoColor=white)]()
-[![JAVASCRIPT](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)]()
