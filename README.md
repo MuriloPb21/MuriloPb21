@@ -55,14 +55,6 @@ Meu espaço pessoal para apresentar projetos, compartilhar conhecimentos e acomp
 - Estruturas de dados e lógica de programação.
 - Fundamentos de computação e algoritmos.
 
-## 🐍 Minhas contribuições
-
-<div align="center">
-
-  <img src="https://raw.githubusercontent.com/MuriloPb21/MuriloPb21/output/github-snake-dark.svg" alt="Animação das contribuições do GitHub" />
-
-</div>
-
 ## 📫 Entre em contato
 
 <div align="center">
